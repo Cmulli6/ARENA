@@ -5,9 +5,24 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound"/>
-  <sprites name="sprites"/>
+  <sprites name="sprites">
+    <sprite>sprites\sp_menuarrow</sprite>
+  </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <script>scripts\scr_menu.gml</script>
+  </scripts>
+  <fonts name="fonts">
+    <font>fonts\ft_menu</font>
+  </fonts>
+  <objects name="objects">
+    <object>objects\obj_menu</object>
+  </objects>
+  <rooms name="rooms">
+    <room>rooms\rm_mainmenu</room>
+    <room>rooms\rm_optionsmenu</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
