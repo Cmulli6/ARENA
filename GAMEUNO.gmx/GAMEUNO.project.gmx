@@ -5,11 +5,16 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound"/>
-  <sprites name="sprites"/>
+  <sprites name="sprites">
+    <sprite>sprites\spr_smile</sprite>
+  </sprites>
   <backgrounds name="background">
     <background>background\bg_grass</background>
   </backgrounds>
   <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\obj_smile</object>
+  </objects>
   <rooms name="rooms">
     <room>rooms\rm_intro</room>
   </rooms>
