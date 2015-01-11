@@ -18,10 +18,13 @@
   </fonts>
   <objects name="objects">
     <object>objects\obj_menu</object>
+    <object>objects\obj_options</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_mainmenu</room>
     <room>rooms\rm_optionsmenu</room>
+    <room>rooms\rm_game</room>
+    <room>rooms\rm_tutorial</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
