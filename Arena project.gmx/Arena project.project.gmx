@@ -8,7 +8,9 @@
   <sprites name="sprites">
     <sprite>sprites\sp_menuarrow</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\bg_hexagons</background>
+  </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
     <script>scripts\scr_menu.gml</script>
