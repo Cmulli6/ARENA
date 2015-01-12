@@ -9,7 +9,7 @@
     <sprite>sprites\sp_menuarrow</sprite>
   </sprites>
   <backgrounds name="background">
-    <background>background\bg_hexagons</background>
+    <background>background\bg_mainmenu</background>
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">

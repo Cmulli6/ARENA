@@ -13,7 +13,7 @@
     <TextureGroup0>0</TextureGroup0>
   </TextureGroups>
   <For3D>0</For3D>
-  <width>921</width>
-  <height>1023</height>
-  <data>images\bg_hexagons.png</data>
+  <width>900</width>
+  <height>600</height>
+  <data>images\bg_mainmenu.png</data>
 </background>
